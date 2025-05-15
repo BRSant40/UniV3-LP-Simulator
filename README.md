@@ -1,10 +1,10 @@
-# UniV3 LP Simulator (ou o nome que você escolher em português)
+# UniV3 LP Simulator Alpha version
 
-📊 Um simulador avançado baseado em Streamlit para estimar e comparar os rendimentos de Provedores de Liquidez (LP) na Uniswap V3. Esta ferramenta auxilia LPs a analisar retornos potenciais ao fornecer liquidez em pools da Uniswap V3, considerando estratégias de liquidez concentrada e diversos ajustes do mundo real.
+📊 Um simulador baseado em Streamlit para estimar e comparar os rendimentos de Provedores de Liquidez (LP) na Uniswap V3 da rede base. Esta ferramenta auxilia LPs a analisar retornos potenciais ao fornecer liquidez em pools da Uniswap V3, considerando estratégias de liquidez concentrada e diversos ajustes do mundo real.
 
 ## ✨ Funcionalidades Principais
 
-*   **Descoberta de Pools:** Busca as principais pools da Uniswap V3 utilizando The Graph (rede principal Ethereum).
+*   **Descoberta de Pools:** Busca as principais pools da Uniswap V3 base utilizando The Graph.
 *   **Dados Detalhados da Pool:** Exibe TVL atual, volume, taxas, preços e dados históricos de APY.
 *   **Simulação Comparativa:**
     *   **Estratégia V2 (Faixa Completa):** Simula os retornos para uma posição de LP tradicional de faixa completa (0 a infinito).
