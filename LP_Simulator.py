@@ -34,7 +34,7 @@ if not logger.handlers:
     logger.propagate = False
 
 # --- CONFIGURAÇÕES E QUERYS ---
-GRAPH_API_KEY = 'e258ac562ef43378a6aa1ade9c0279a6'  # Sua chave da API aqui
+GRAPH_API_KEY = ''  # Sua chave da API aqui
 SUBGRAPH_URL = f"https://gateway.thegraph.com/api/{GRAPH_API_KEY}/subgraphs/id/BHWNsedAHtmTCzXxCCDfhPmm6iN9rxUhoRHdHKyujic3"
 
 # -- REQUISITA PISCINAS DE LIQUIDEZ DA BASE
